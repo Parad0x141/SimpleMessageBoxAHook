@@ -1,7 +1,7 @@
 # MessageBoxA Hook Demo 🎣
 
 **Demonstration concrète de hooking de fonction Windows**  
-*Exemple réel utilisé dans l'article "Hooking 101" + showcase de BytesForge*
+*Exemple réel utilisé dans l'article "Hooking 101 Part 2" + showcase de BytesForge*
 
 [![C++](https://img.shields.io/badge/C++-20+-blue)](https://en.cppreference.com/)
 [![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://windows.com)
